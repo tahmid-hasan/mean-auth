@@ -1,0 +1,5 @@
+@media (min-width) {
+    .navbar-header {
+        float: left;
+    }
+}
